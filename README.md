@@ -1,11 +1,12 @@
-# BlackBeyondTheCallOfBeauty.com
-an e-commerce site in react for a black business
+# Black Beyond The Call of Beauty is an experience that introduces shoppers to African American Culture through fashion. 
+
+It is a diverse come
 
 ## Features
 
 - Shopping Cart
-- Checkout And Suggestions
+- Suggestions on Checkout
 - Deals
 - Personalized User Experience
-  
-  - Treasonous Minions
+- Save Card and Address info for faster checkout
+- 
