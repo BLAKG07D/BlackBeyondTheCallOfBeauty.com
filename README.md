@@ -7,4 +7,5 @@ an e-commerce site in react for a black business
 - Checkout And Suggestions
 - Deals
 - Personalized User Experience
-- 
+  
+  - Treasonous Minions
